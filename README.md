@@ -15,3 +15,13 @@ The specifications of the project are:
 ## To Start the Project
 
 You need to run the command: `npm install && npm run start`
+
+As soon as you are done with the above step you will be redirected to `localhost:3000`
+
+Screenshot-1:
+
+![Alt text](image-1.png)
+
+Screenshot-2
+
+![Alt text](image-3.png)
